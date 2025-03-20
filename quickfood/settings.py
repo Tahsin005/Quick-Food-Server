@@ -37,7 +37,8 @@ ALLOWED_HOSTS = ["*"]
 CORS_ORIGIN_ALLOW_ALL = True
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://quick-food-server.onrender.com", 
+    "https://quick-food-server.onrender.com",
+    "https://quick-food-tan.vercel.app/"
 ]
 
 
